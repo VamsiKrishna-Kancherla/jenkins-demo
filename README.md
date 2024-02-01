@@ -26,5 +26,3 @@ From `src/adservice/`, run:
 docker build ./
 ```
 
-# jenk
-# jenk
